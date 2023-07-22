@@ -1,0 +1,10 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Sunflower', sans-serif;
+
+}
+body {
+    background-image: url("IMG/calc.jpg");
+}
